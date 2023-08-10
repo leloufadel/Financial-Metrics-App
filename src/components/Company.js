@@ -17,7 +17,7 @@ const Company = ({ name }) => {
             {names}
           </h3>
           <div>
-            <p>Area : US</p>            
+         <p>Area : US</p>            
           </div>
         </div>
       </div>
