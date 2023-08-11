@@ -25,7 +25,7 @@
 
 
 **US financial statements** is an application that showcases the financial statements of selected companies in the US. The data is in real time, audited, standardized and up to date from the US stock market
-Here is a brief <a>
+Here is a brief <a href="https://www.loom.com/share/c75a71fd85044d9fa1793653cdee0a7e">
  video presentation </a> of the project.
 
 ## 🛠 Built With <a name="built-with"></a>
@@ -52,7 +52,7 @@ This project is built with React, Redux, JavaScript & tested with Jest and React
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🚀 Live Demo <a name="live-demo"></a>
-To visit the live version of the project <a> click here</a>
+To visit the live version of the project <a href="https://financial-metrics-app.onrender.com/"> click here</a>
 
 ## 💻 Getting Started <a name="getting-started"></a>
 To get a local copy up and running, follow these steps.

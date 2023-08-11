@@ -5,17 +5,17 @@ import css from './company.module.css';
 const Company = ({ name }) => {
   const names = name;
   return (
-    <Link to={`/detail/${name}`}>
+    <Link to={`/detail/${name}`} className={css.companyLink}>
       <div className={css.cover}>
         <div className={css.box}>
           <i className="bx bx-chevron-right-circle" />
         </div>
         <div className={css.boxBody}>
-          <h3>
+          <p className={css.code}>
             Code:
             {' '}
             {names}
-          </h3>
+          </p>
           <div>
             <p>Area : US</p>
           </div>
