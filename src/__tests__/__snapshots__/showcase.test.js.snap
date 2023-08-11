@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test the header component Matches the snapshot 1`] = `
+<div>
+  <div
+    class="showcase"
+  >
+    <div
+      class="showDiv"
+    >
+      <img
+        alt="avatar"
+        class="showImg"
+      />
+    </div>
+    <div
+      class="showDiv"
+    >
+      <p
+        class="showline"
+      />
+      <div
+        class="companyList"
+      />
+    </div>
+  </div>
+</div>
+`;

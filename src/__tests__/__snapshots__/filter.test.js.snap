@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`it matches the snapshot 1`] = `
+<div>
+  <form>
+    <div
+      class="filterDiv"
+    >
+      <input
+        class="filterInput"
+        placeholder="Enter code"
+        value="search"
+      />
+      <button
+        class="btn"
+        type="button"
+      >
+         SEARCH 
+      </button>
+    </div>
+  </form>
+</div>
+`;
